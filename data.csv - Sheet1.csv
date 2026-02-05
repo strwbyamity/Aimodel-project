@@ -1,0 +1,11 @@
+Hours_Studied,Hours_Slept,Test_Score
+1,5,60
+3,6,70
+5,7,80
+7,8,88
+9,9,95
+2,3,66
+5,9,100
+3,7,76
+print("The AI predicted a test score of " + str(prediction[0]) +
+      " for a student who studied 6 hours and slept 8 hours.")
